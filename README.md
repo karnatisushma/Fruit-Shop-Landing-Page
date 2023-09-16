@@ -1,6 +1,6 @@
 # Fruit-Shop-Landing-Page
 
-#OutPut
+# OutPut
 ![Screenshot (19)](https://github.com/karnatisushma/Fruit-Shop-Landing-Page/assets/83907205/da98c1cc-9c49-4bd6-abb3-3ffb17e44439)
 
 ![Screenshot (20)](https://github.com/karnatisushma/Fruit-Shop-Landing-Page/assets/83907205/ce4f8866-ae76-42c7-b59a-743d5e0a5fd6)
